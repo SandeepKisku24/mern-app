@@ -1,0 +1,43 @@
+{
+    "id": "PP978H102",
+  "name": "Prabha Restaurent",
+  "contactno": 9876543210,
+  "email": "John01gmail.com",
+  "ownerName": "John Doe",
+  "onBoardingDate": "20 July 2023",
+  "address": "John Doe,B123, Freedom fighter Colony ",
+  "subscription" : "monthly",
+  "items": [
+    {
+      "name": "Rice",
+      "company": "India  Gate",
+      "quantity": 5641,
+      "price":76051.00
+    },
+    {
+      "name": "Salt",
+      "company": "Tata Salt",
+      "quantity": 561,
+      "price":26051.00
+    },
+    {
+      "name": "Suger",
+      "company": "GFG",
+      "quantity": 156,
+      "price":16051.00
+    },
+    {
+      "name": "Vegetabe",
+      "company": "India  Gate",
+      "quantity": 561,
+      "price":26051.00
+    },
+    {
+      "name": "Milk",
+      "company": "mother Dairy",
+      "quantity": 233,
+      "price":45633.00
+    }
+  ]
+  
+}

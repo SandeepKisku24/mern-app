@@ -1,0 +1,128 @@
+.pages{
+    width: 100%;
+    margin: auto;
+}
+
+.navi-bar{
+    margin-bottom: 5%;
+    border-bottom-left-radius: 50px;
+    background-color: #90ee90;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 2,
+  'opsz' 24
+}
+
+.form-reg{
+    width: 40%;
+    margin: auto;
+}
+
+.details-of-restrau{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.img-part{
+    margin-left: 5%;
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 2px solid green;
+}
+
+.det-Part{
+    margin-left: 5%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.edit-delete-side{
+    margin-left: 25%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.delete-but{
+    color: red;
+}
+
+.email_part{
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    margin-top: -2px;
+}
+.space { 
+    width: 30px;
+    height: 20px;
+}
+.subs{
+    color: red;
+}
+.eachItem, .eachItem_heading{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.eachItem_heading
+{
+    background-color: #2E3033;
+    color: #ffffff;
+}
+.items-in-the-page{
+    height: 400px;
+    overflow-y: scroll;
+}
+.item_det{
+    width: 25%;
+}
+
+
+
+.collection-boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 90%;
+    margin: auto;
+}
+/* for the boxes in the restaurent page */
+.box-for-rest{
+    height: 80px;
+    width: 180px;
+    text-align: center;
+    border-radius: 5px;
+
+}
+.heading-for-box{
+    color: #062a06;
+    font-size: 21px;
+    height: 30%;
+}
+.content-of-box{
+    font-family: garamond;
+}
+.gtype{
+    background-color: #E6FFE6; 
+    height: 80px;
+    width: 180px;
+    text-align: center;
+    border-radius: 5px;
+}
+.wtype{
+    height: 80px;
+    width: 180px;
+    text-align: center;
+    border-radius: 5px;
+    background-color:#D3D3D3;
+}
